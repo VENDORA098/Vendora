@@ -1,0 +1,3 @@
+- ✨ Changelog: 
+- Add support for device Arm32
+- Add screen hz control 

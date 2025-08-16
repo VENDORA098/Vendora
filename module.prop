@@ -1,0 +1,7 @@
+id=VendoraTweak
+name=Vendora Tweak kernel mode
+version=9.0
+versionCode=9
+author=Vendora098
+description=Incarse your performance without any bootlop issue [Stable version]
+updateJson=https://raw.githubusercontent.com/VENDORA098/Vendora/refs/heads/main/update.json
