@@ -1,0 +1,4 @@
+- ✨ Changelog: 
+- Add Screen Resolution Changer In Misc
+- Add GMS control SOFT/HARD/RESTORE
+- Add camera EIS eneble If your device support eis tested work on my device ginko
