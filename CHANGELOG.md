@@ -1,0 +1,3 @@
+- ✨ Changelog: 
+- Incarse Performance in Snapdragon devices 
+- add support for Exynos 

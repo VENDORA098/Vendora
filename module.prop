@@ -1,0 +1,7 @@
+id=VendoraTweak
+name=VenYan Tweak 
+version=11.3
+versionCode=113
+author=VenYan
+description=Batter Performance Without Any Bootlop Issue
+updateJson=https://raw.githubusercontent.com/VENDORA098/Vendora/refs/heads/main/update.json
