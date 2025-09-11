@@ -1,0 +1,3 @@
+- ✨ Changelog: 
+- add gaming tweak in Performance mode
+- Test support for android 16
